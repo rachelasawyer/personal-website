@@ -1,0 +1,15 @@
+body {
+  background-color: coral !important;
+  font-family: Avant Garde,Avantgarde,Century Gothic,CenturyGothic,AppleGothic,sans-serif !important;
+}
+
+.button{
+  width: 20px;
+  height: 20px;
+  color: white;
+  background: black;
+  padding: 10px;
+  text-align: center;
+  border-radius: 5px;
+  font-weight: bold;
+}
